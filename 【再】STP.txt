@@ -5,7 +5,7 @@
 Switch1のF0/1：指定ポート
 Switch1のF0/2：ルートポート
 
-Switch2のE0/1：指定ポート
+Switch2のE0/1：ルートポート
 Switch2のE0/2：ブロッキングポート
 
 Switch3のE0/1：指定ポート
