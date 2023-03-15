@@ -1,0 +1,30 @@
+◆課題
+
+(1)MACアドレス：AAAA.AAAA.AAAA
+⇨A8 AA AA FF FE AA AA AA
+
+
+
+(2)MACアドレス：9876.5432.10FE
+
+⇨9A 76 54 FF FE 32 10 FE
+
+
+
+
+
+(3)MACアドレス：FFFF.FFFF.FFFF
+⇨FD FF FF FF FE FF FF FF
+
+
+
+
+
+
+
+
+
+
+
+
+
